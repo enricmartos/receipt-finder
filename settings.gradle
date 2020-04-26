@@ -1,0 +1,3 @@
+rootProject.name = 'multi-module-spring-boot-skeleton'
+include 'configuration-layer', 'model-layer', 'service-layer', 'web-layer'
+
