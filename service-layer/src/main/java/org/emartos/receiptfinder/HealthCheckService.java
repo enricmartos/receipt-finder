@@ -1,4 +1,4 @@
-package org.emartos.multimodulespringbootskeleton;
+package org.emartos.receiptfinder;
 
 import org.springframework.stereotype.Service;
 

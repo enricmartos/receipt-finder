@@ -1,4 +1,4 @@
-package org.emartos.multimodulespringbootskeleton;
+package org.emartos.receiptfinder;
 
 public class HealthCheck {
     private String message;

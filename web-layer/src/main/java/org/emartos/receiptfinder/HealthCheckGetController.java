@@ -1,4 +1,4 @@
-package org.emartos.multimodulespringbootskeleton;
+package org.emartos.receiptfinder;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -10,7 +10,7 @@ import java.util.Map;
 
 @RestController
 public class HealthCheckGetController {
-    private static final String APPLICATION_NAME = "multi-module-spring-boot-skeleton";
+    private static final String APPLICATION_NAME = "receipt-finder";
 
     @Autowired
     private HealthCheckService healthCheckService;
